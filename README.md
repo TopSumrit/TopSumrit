@@ -1,7 +1,10 @@
+Preview
+Markdown
+Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sumrit Nakhonpum
 ========================================================================================================================================
 
-* 🌍  I'm based in I'm based in KamphaengPhet
+* 🌍  I'm based in KamphaengPhet
 * ✉️  You can contact me at [sumritnakhonpum@gmail.com](mailto:sumritnakhonpum@gmail.com)
 * 🧠  I'm learning ReactJS, NextJS, TypeScript
 
